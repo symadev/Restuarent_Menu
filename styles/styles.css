@@ -19,7 +19,7 @@ body{
 display: flex;
 justify-content: space-between;
 padding: 10px;
-background-color: black;
+background-color: rgb(46, 45, 45);
 color: antiquewhite;
 margin: 20px;
 border-radius: 9px;
